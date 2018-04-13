@@ -1,0 +1,5 @@
+Seed: avocado cross lion power inform rabbit salt hockey model develop author illegal coach poet arrest
+Encoded seed: 3ZBoGsicfVri7CRoy8Mz1m54VDGLR4Xrsut9PSYBvyNrV24vFj7U8htv8VEeNhD82cn3EbmhmD76TiahzQaanuiESoviHsL2bo8rzNHKPv9bhZj237V6iL6XhR4szigpkNrNw
+Private key: Dwkeh49dcNpKnMVPfyVsT89WmjyTvt5owV3T2qN79v4L
+Public key: 8i8MRwnRd9Wrv5HU4D4yUMiND3xzHDMkPCqz3jBw7uup
+Address: 3PGrgqger8s9ipmGPvUyQS7KqwgeRxKH2pT
